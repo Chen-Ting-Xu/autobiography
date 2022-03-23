@@ -15,20 +15,6 @@ line-height:1.2;
 padding: 0 100px;
 background-color:white;
 }
-img{
-padding: 0 40px;
-}
-
-p1{
-padding: 0 160px;
-}
-p2{
-padding: 0 170px;
-}
-p3{
-padding: 0 80px;
-}
-
 
 h2 {
 color:#A3A3FF;
@@ -37,6 +23,7 @@ font-weight:bolder;
 line-height:1.4;
 background-color:white;
 }
+
 table{
 font-size:18px;
 line-height:1.4;
