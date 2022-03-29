@@ -27,5 +27,36 @@ background-color:#CCCCFF;
 table{
 font-size:20px;
 line-height:1.4;
-padding: 0 80px;
+}
+
+h3 {
+color:#8C8CFF;
+font-size:60px;
+font-weight:bolder;
+line-height:1.4;
+background-color:#CCCCFF;
+}
+
+h4 {
+color:#8C8CFF;
+font-size:60px;
+font-weight:bolder;
+line-height:1.4;
+background-color:#CCCCFF;
+}
+
+h5 {
+color:#8C8CFF;
+font-size:60px;
+font-weight:bolder;
+line-height:1.4;
+background-color:#CCCCFF;
+}
+
+h6 {
+color:#8C8CFF;
+font-size:60px;
+font-weight:bolder;
+line-height:1.4;
+background-color:#CCCCFF;
 }
