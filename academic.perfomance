@@ -1,0 +1,52 @@
+
+<h2><center><marquee direction=right behavior=alternate>在校成績</marquee></center></h2>
+<table border="1" align=center style="width:70%">
+<tr>
+			<th scope="col" style="text-align:center;"  style="width:7%;">科目</th>
+			<th scope="col" style="text-align:center;"  style="width:7%;">總平均</th>
+			<th scope="col" style="text-align:center;"  style="width:6%;">國文</th>
+			<th scope="col" style="text-align:center;"  style="width:6%;">英文</th>
+			<th scope="col" style="text-align:center;"  style="width:6%;">數學</th>
+			<th scope="col" style="text-align:center;"  style="width:6%;">物理</th>
+			<th scope="col" style="text-align:center;"  style="width:6%;">化學</th>
+			<th scope="col" style="text-align:center;"  style="width:6%;">生物</th>
+			<th scope="col" style="text-align:center;"  style="width:8%;">地球<br>科學</th>
+			<th scope="col" style="text-align:center;"  style="width:8%;">公民<br>與社會</th>
+			<th scope="col" style="text-align:center;"  style="width:6%;">歷史</th>
+			<th scope="col" style="text-align:center;"  style="width:6%;">地理</th>
+			<th scope="col" style="text-align:center;"  style="width:6%;">生活<br>科技</th>
+			<th scope="col" style="text-align:center;"  style="width:6%;">資訊<br>科技</th>
+		</tr>
+		<tr>
+			<th align="center" style="text-align:center;"  style="width:7%;">各科分數</th>
+			<td align="center" style="width:7%;">84.36</td>
+			<td align="center" style="width:6%;">78.4</td>
+			<td align="center" style="width:6%;">88.2</td>
+			<td align="center" style="width:6%;">69.75</td>
+			<td align="center" style="width:6%;">86.5</td>
+			<td align="center" style="width:6%;">82</td>
+			<td align="center" style="width:6%;">84</td>
+			<td align="center" style="width:8%;">78</td>
+			<td align="center" style="width:8%;">90</td>
+			<td align="center" style="width:6%;">79.33</td>
+			<td align="center" style="width:6%;">93</td>
+			<td align="center" style="width:6%;">86</td>
+			<td align="center" style="width:6%;">91</td>
+		</tr>
+		<tr>
+			<th align="center" style="text-align:center;"  style="width:7%;">百分比</th>
+			<td align="center" style="width:7%;">5</td>
+			<td align="center" style="width:6%;">16</td>
+			<td align="center" style="width:6%;">3</td>
+			<td align="center" style="width:6%;">22</td>
+			<td align="center" style="width:6%;">6</td>
+			<td align="center" style="width:6%;">17</td>
+			<td align="center" style="width:6%;">5</td>
+			<td align="center" style="width:8%;">22</td>
+			<td align="center" style="width:8%;">3</td>
+			<td align="center" style="width:6%;">19</td>
+			<td align="center" style="width:6%;">1</td>
+			<td align="center" style="width:6%;">29</td>
+			<td align="center" style="width:6%;">43</td>
+		</tr>
+	</table>
