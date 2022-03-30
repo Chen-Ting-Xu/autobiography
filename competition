@@ -1,3 +1,17 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+
+<head>
+<meta charset="UTF-8">
+<title>Chen-Ting.competition</title>
+<meta name ="description" content="homework test">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
 <h3><center><marquee direction=right behavior=alternate>競賽參與</marquee></center></center></h3>
 <table border="1" align=center style="width:70%">
 
