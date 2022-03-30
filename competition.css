@@ -1,0 +1,15 @@
+h3 {
+color:#D0D0D0;
+font-size:60px;
+font-weight:bolder;
+line-height:1.4;
+background-color:#CCCCFF;
+}
+p {
+color:#2B2B2B;
+font-size:18px;
+font-weight:lighter;
+line-height:1.2;
+padding: 0 100px;
+background-color:white;
+}
