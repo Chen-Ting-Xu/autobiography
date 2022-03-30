@@ -1,6 +1,6 @@
 @charset "UTF-8";
 h1 {
-color:#FF7878;
+color:#FFBFFF;
 font-size:60px;
 font-weight:bolder;
 line-height:1.4;
@@ -17,7 +17,7 @@ background-color:white;
 }
 
 h2 {
-color:#8C8CFF;
+color:#ACD6FF;
 font-size:60px;
 font-weight:bolder;
 line-height:1.4;
@@ -30,7 +30,7 @@ line-height:1.4;
 }
 
 h3 {
-color:#8C8CFF;
+color:#D0D0D0;
 font-size:60px;
 font-weight:bolder;
 line-height:1.4;
@@ -38,7 +38,7 @@ background-color:#CCCCFF;
 }
 
 h4 {
-color:#8C8CFF;
+color:#ABD8CC;
 font-size:60px;
 font-weight:bolder;
 line-height:1.4;
@@ -46,7 +46,7 @@ background-color:#CCCCFF;
 }
 
 h5 {
-color:#8C8CFF;
+color:#FFED94;
 font-size:60px;
 font-weight:bolder;
 line-height:1.4;
@@ -54,7 +54,7 @@ background-color:#CCCCFF;
 }
 
 h6 {
-color:#8C8CFF;
+color:#DEB8FF;
 font-size:60px;
 font-weight:bolder;
 line-height:1.4;
