@@ -10,6 +10,7 @@
 
 </head>
 
+<body>
 <h2><center><marquee direction=right behavior=alternate>在校成績</marquee></center></h2>
 <table border="1" align=center style="width:70%">
 <tr>
@@ -61,3 +62,4 @@
 			<td align="center" style="width:6%;">43</td>
 		</tr>
 	</table>
+</body>
