@@ -1,3 +1,14 @@
+<!DOCTYPE html>
+<html lang="zh-Hant-TW">
+
+<head>
+<meta charset="UTF-8">
+<title>Chen-Ting.academic.perfomance</title>
+<meta name ="description" content="homework test">
+
+<link rel="stylesheet" href="style.css">
+
+</head>
 
 <h2><center><marquee direction=right behavior=alternate>在校成績</marquee></center></h2>
 <table border="1" align=center style="width:70%">
